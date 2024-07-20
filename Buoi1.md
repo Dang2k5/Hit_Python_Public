@@ -1,0 +1,4 @@
+Python là ngôn ngữ thông dịch, có nghĩa là chương trình của máy tính được thực thi trực tiếp bằng một ngôn ngữ lập trình mà không cần phải biên dịch trước thành mã máy. Tại vì:
+Dễ hiểu, dễ tương tác: vì ngôn ngữ này chạy trực tiếp từng dòng mã. Nếu có lỗi trong mã chương trình, nó sẽ ngừng chạy. Chính vì điều đó, nó giúp ta tìm ra lỗi trong một đoạn mã và khắc phục lỗi một cách nhanh chóng, hiệu quả.
+Tính đa nền tảng tốt: ngôn ngữ thông dịch có hiệu suất đa nền tảng tốt, thông qua các trình thông dịch khác nhau, diễn giải cùng một mã nguồn thành mã máy dưới các nền tảng khác nhau.
+Thực thi trực tiếp chương trình mà không phải thông qua trình biên dịch
