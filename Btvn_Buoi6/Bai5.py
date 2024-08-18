@@ -1,4 +1,3 @@
-
 def format_phone_number(number_phone):
     s = ""
     for i in number_phone: 
